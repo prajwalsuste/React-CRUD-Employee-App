@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "employees": [
+    {
+      "id": "301",
+      "name": "sujay",
+      "salary": 5555,
+      "address": "pune"
+    },
+    {
+      "id": "101",
+      "name": "Prajwal",
+      "salary": "35424",
+      "address": "Pune"
+    },
+    {
+      "id": "401",
+      "name": "Yash",
+      "salary": "365546",
+      "address": "KK"
+    },
+    {
+      "id": "123",
+      "name": "Suraj",
+      "salary": "25232",
+      "address": "Indore"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
