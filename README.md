@@ -27,6 +27,6 @@ This is a simple CRUD (Create, Read, Update, Delete) React project that connects
    ```bash
    npx json-server --watch db.json --port 3000
   Make sure your db.json file is in the project folder with sample employee data.
-6. Start the React app:
+5. Start the React app:
   ```bash
   npm start
