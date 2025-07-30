@@ -25,8 +25,9 @@ This is a simple CRUD (Create, Read, Update, Delete) React project that connects
    npm install
 4. Start the JSON Server:
    ```bash
-   npx json-server --watch db.json --port 3000
-  Make sure your db.json file is in the project folder with sample employee data.
+   npx json-server --watch db.json --port 3000   
+  Make sure your db.json file is in the project folder with sample employee data.   
+  
 5. Start the React app:
   ```bash
   npm start
